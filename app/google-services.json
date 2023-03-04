@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088326707489",
+    "project_id": "hirecityguide",
+    "storage_bucket": "hirecityguide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088326707489:android:8af7cd6307fc1b99a6b660",
+        "android_client_info": {
+          "package_name": "com.example.hirecityguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088326707489-k84gebmoq01mqe9kn9544b4827bb0si8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkktf5uIWDGR6KvdHieh-CYOKE_RVSLVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088326707489-k84gebmoq01mqe9kn9544b4827bb0si8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
